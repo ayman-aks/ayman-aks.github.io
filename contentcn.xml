@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<website>
+    <language>zh</language>
+    <navbar>
+        <text id="1">主页</text>
+        <text id="2">关于</text>
+        <text id="3">简历</text>
+        <text id="4">网络语义技能</text>
+        <text id="5">联系</text>
+    </navbar>
+
+    <general>
+        <name>Ayman AKANSOUS</name>
+    </general>
+
+    <home>
+        <text>你好!</text>
+        <pronoun>我是</pronoun>
+        <job>一名软件工程师</job>
+        <city>基于巴黎</city>
+    </home>
+
+    <about>
+        <title>关于我</title>
+        <text id="1">姓名</text>
+        <text id="2">出生日期</text>
+        <text id="3">地址</text>
+        <text id="4">邮政编码</text>
+        <text id="5">电子邮件</text>
+        <text id="6">电话</text>
+        <birth>2001年6月18日</birth>
+        <address>蒙特马尼</address>
+        <zip>95360</zip>
+        <email>aymanakansous@outlook.com</email>
+        <phone>+33749693627</phone>
+    </about>
+
+    <Resume>
+        <title>简历</title>
+        <text>自始至终对计算机科学充满热情，我选择了计算机工程作为我的领域，这是一个我可以满足我的激情并随着世界数字化的增加而保持最新的领域。</text>
+        <download>查看简历</download>
+        <link>cvcn.xml</link>
+    </Resume>
+
+    <Skills>
+        <title>我的技能</title>
+        <skill>
+            <title>RDF</title>
+            <detail>
+            RDF（资源描述框架）是网络上数据交换的标准模型。RDF允许即使基础模式不同的数据合并，并且它特别支持模式随时间的演变，而无需更改所有数据消费者。
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFs</title>
+            <detail>
+            RDF模式（RDFS）为RDF数据提供数据建模词汇。它通过提供描述相关资源组及其之间关系的机制来扩展RDF。RDFS允许创建类和属性的分类法，从而促进更丰富的数据描述。
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFa</title>
+            <detail>
+            RDFa（属性资源描述框架）是一种在HTML、XHTML和其他基于XML的文档类型中使用的属性规范，用于表达结构化数据。RDFa允许在网页文档中嵌入RDF元数据，使数据易于机器处理。
+            </detail>
+        </skill>
+
+        <skill>
+            <title>XSL</title>
+            <detail>
+            XSL（可扩展样式表语言）是一种用于表达样式表的语言。它主要用于将XML文档转换为其他格式，例如HTML、纯文本或其他XML模式。XSLT是XSL的一部分，允许将XML数据转换为不同的格式，从而提供在呈现和共享XML数据方面的灵活性。
+            </detail>
+        </skill>
+    </Skills>
+
+    <contact>
+        <address>
+          <title>地址</title>
+          <text>95360，蒙特马尼</text>
+        </address>
+        <number>
+          <title>联系电话</title>
+          <text>+33749693627</text>
+        </number>
+        <mail>
+          <title>电子邮件地址</title>
+          <text>aymanakansous@outlook.com</text>
+        </mail>
+        <linkedin>
+          <title>LinkedIn</title>
+          <text>https://www.linkedin.com/in/ayman-akansous-686b5a134/</text>
+        </linkedin>
+        <name>你的名字</name>
+        <email>电子邮件</email>
+        <subject>主题</subject>
+        <message>消息</message>
+        <button>发送消息</button>
+    </contact>
+    <video>https://www.youtube.com/embed/S464jkQbd48?si=1WHnZYreAT8lcBAM</video>
+
+</website>

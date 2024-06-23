@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<website xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="akansous.xsd">
+    <language>en</language>
+    <navbar>
+        <text id="1">Home</text>
+        <text id="2">About</text>
+        <text id="3">Resume</text>
+        <text id="4">Skills In Web Semantic</text>
+        <text id="5">Contact</text>
+    </navbar>
+
+    <general>
+        <name>Ayman AKANSOUS</name>
+    </general>
+
+    <home>
+        <text>Hello!</text>
+        <pronoun>I'm</pronoun>
+        <job>A Software Engineer</job>
+        <city>Based in Paris</city>
+    </home>
+
+    <about>
+        <title>About me</title>
+        <text id="1">Name</text>
+        <text id="2">Date of birth</text>
+        <text id="3">Address</text>
+        <text id="4">Zip code</text>
+        <text id="5">Email</text>
+        <text id="6">Phone</text>
+        <birth>June 18,2001</birth>
+        <address>Montmagny</address>
+        <zip>95360</zip>
+        <email>aymanakansous@outlook.com</email>
+        <phone>+33749693627</phone>
+    </about>
+
+    <Resume>
+        <title>Resume</title>
+        <text>Passionate about computer science since always, I chose as a field of computer engineering, this is the field where I can satisfy my passion and be up to date with the increase of digitization in the world.</text>
+        <download>Show CV</download>
+        <link>cven.xml</link>
+    </Resume>
+
+    <Skills>
+        <title>My Skills</title>
+        <skill>
+            <title>RDF</title>
+            <detail>
+            RDF (Resource Description Framework) is a standard model for data interchange on the web. RDF allows the merging of data even if the underlying schemas differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFs</title>
+            <detail>
+            RDF Schema (RDFS) provides a data-modelling vocabulary for RDF data. It extends RDF by providing mechanisms for describing groups of related resources and the relationships between these resources. RDFS allows for the creation of a taxonomy of classes and properties, facilitating richer data descriptions.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFa</title>
+            <detail>
+            RDFa (Resource Description Framework in Attributes) is a specification for attributes to be used with HTML, XHTML, and other XML-based document types to express structured data. RDFa enables embedding RDF metadata within web documents, making the data easily accessible to machines for processing.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>XSL</title>
+            <detail>
+            XSL (Extensible Stylesheet Language) is a language for expressing stylesheets. It is primarily used to transform XML documents into other formats such as HTML, plain text, or other XML schemas. XSLT, a part of XSL, allows for the transformation of XML data into different formats, providing flexibility in presenting and sharing XML data.
+            </detail>
+        </skill>
+    </Skills>
+
+    <contact>
+        <address>
+          <title>ADDRESS</title>
+          <text>95360, Montmagny </text>
+        </address>
+        <number>
+          <title>CONTACT NUMBER</title>
+          <text>+33749693627</text>
+        </number>
+        <mail>
+          <title>EMAIL ADDRESS</title>
+          <text>aymanakansous@outlook.com</text>
+        </mail>
+        <linkedin>
+          <title>Linkedin</title>
+          <text>https://www.linkedin.com/in/ayman-akansous-686b5a134/</text>
+        </linkedin>
+        <name>Your Name</name>
+        <email>Email</email>
+        <subject>Subject</subject>
+        <message>Message</message>
+        <button>SEND MESSAGE</button>
+    </contact>
+    <video>https://www.youtube.com/embed/kjPqZQ0ZHpg?si=UIzpFywAlvrGpfav</video>
+</website>

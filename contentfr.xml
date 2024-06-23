@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<website xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="akansous.xsd">
+    <language>fr</language>
+    <navbar>
+        <text id="1">Accueil</text>
+        <text id="2">À propos</text>
+        <text id="3">CV</text>
+        <text id="4">Compétences en Sémantique Web</text>
+        <text id="5">Contact</text>
+    </navbar>
+
+    <general>
+        <name>Ayman AKANSOUS</name>
+    </general>
+
+    <home>
+        <text>Bonjour!</text>
+        <pronoun>Je suis</pronoun>
+        <job>Un Ingénieur Logiciel</job>
+        <city>Basé à Paris</city>
+    </home>
+
+    <about>
+        <title>À propos de moi</title>
+        <text id="1">Nom</text>
+        <text id="2">Date de naissance</text>
+        <text id="3">Adresse</text>
+        <text id="4">Code postal</text>
+        <text id="5">Email</text>
+        <text id="6">Téléphone</text>
+        <birth>18 juin 2001</birth>
+        <address>Montmagny</address>
+        <zip>95360</zip>
+        <email>aymanakansous@outlook.com</email>
+        <phone>+33749693627</phone>
+    </about>
+
+    <Resume>
+        <title>CV</title>
+        <text>Passionné par l'informatique depuis toujours, j'ai choisi le domaine de l'ingénierie informatique. C'est le domaine où je peux satisfaire ma passion et être à jour avec l'augmentation de la numérisation dans le monde.</text>
+        <download>Voir CV</download>
+        <link>cvfr.xml</link>
+    </Resume>
+
+    <Skills>
+        <title>Mes Compétences</title>
+        <skill>
+            <title>RDF</title>
+            <detail>
+            RDF (Resource Description Framework) est un modèle standard pour l'échange de données sur le web. RDF permet la fusion de données même si les schémas sous-jacents diffèrent, et il prend en charge l'évolution des schémas au fil du temps sans nécessiter la modification de tous les consommateurs de données.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFs</title>
+            <detail>
+            RDF Schema (RDFS) fournit un vocabulaire de modélisation de données pour les données RDF. Il étend RDF en fournissant des mécanismes pour décrire des groupes de ressources connexes et les relations entre ces ressources. RDFS permet la création d'une taxonomie de classes et de propriétés, facilitant des descriptions de données plus riches.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>RDFa</title>
+            <detail>
+            RDFa (Resource Description Framework in Attributes) est une spécification pour les attributs à utiliser avec HTML, XHTML et d'autres types de documents basés sur XML pour exprimer des données structurées. RDFa permet d'intégrer des métadonnées RDF dans les documents web, rendant les données facilement accessibles aux machines pour le traitement.
+            </detail>
+        </skill>
+
+        <skill>
+            <title>XSL</title>
+            <detail>
+            XSL (Extensible Stylesheet Language) est un langage pour exprimer des feuilles de style. Il est principalement utilisé pour transformer des documents XML en d'autres formats tels que HTML, texte brut ou autres schémas XML. XSLT, une partie de XSL, permet la transformation de données XML en différents formats, offrant ainsi une flexibilité dans la présentation et le partage des données XML.
+            </detail>
+        </skill>
+    </Skills>
+
+    <contact>
+        <address>
+          <title>ADRESSE</title>
+          <text>95360, Montmagny </text>
+        </address>
+        <number>
+          <title>NUMÉRO DE CONTACT</title>
+          <text>+33749693627</text>
+        </number>
+        <mail>
+          <title>ADRESSE EMAIL</title>
+          <text>aymanakansous@outlook.com</text>
+        </mail>
+        <linkedin>
+          <title>LinkedIn</title>
+          <text>https://www.linkedin.com/in/ayman-akansous-686b5a134/</text>
+        </linkedin>
+        <name>Votre Nom</name>
+        <email>Email</email>
+        <subject>Sujet</subject>
+        <message>Message</message>
+        <button>ENVOYER MESSAGE</button>
+    </contact>
+    <video>https://www.youtube.com/embed/Xep0zcHzclo?si=sWOzVSHMupdboiJu</video>
+</website>

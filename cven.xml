@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform_cv.xsl"?>
+<resume>
+    <language>en</language>
+    <titles>
+        <section>Personal Information</section>
+        <socialLinks>Social Links</socialLinks>
+        <education>Education</education>
+        <workExperience>Work Experience</workExperience>
+        <skills>Skills</skills>
+        <languages>Languages</languages>
+        <interests>Interests</interests>
+    </titles>
+    <personalInfo>
+        <name>Name: Ayman AKANSOUS</name>
+        <dob>Date of Birth: 18/06/2001</dob>
+        <nationality>Nationality: Moroccan</nationality>
+        <contact>
+            <email>Email: aymanakansous@outlook.com</email>
+            <address>Address: 3, Rue Albert Camus 93220-Gagny, France</address>
+            <phone>Phone: +33749693627</phone>
+            <maritalStatus>Marital Status: Single</maritalStatus>
+        </contact>
+        <socials>
+            <github>https://github.com/ayman-aks</github>
+            <facebook>https://www.facebook.com/ayman.akansous</facebook>
+            <linkedin>https://www.linkedin.com/in/Ayman%20AKANSOUS</linkedin>
+        </socials>
+    </personalInfo>
+    <education>
+        <degree>
+            <title>Baccalaureate</title>
+            <institution>Madaris Anisse Casablanca, Morocco</institution>
+            <year>2019</year>
+            <details>Option: Physical and Chemical Sciences, Mention: Very Good</details>
+        </degree>
+        <degree>
+            <title>DUT in Computer Engineering</title>
+            <institution>Ecole Supérieure Polytechnique de DAKAR (ESP), DAKAR</institution>
+            <year>2019-2021</year>
+            <details>Mention: Good</details>
+        </degree>
+        <degree>
+            <title>Design Engineer Diploma (DIC)</title>
+            <institution>Ecole Supérieure Polytechnique de DAKAR (ESP), DAKAR</institution>
+            <year>2021-2022</year>
+        </degree>
+        <degree>
+            <title>Engineering Degree in Computer Science</title>
+            <institution>Institut Galilée, Villetaneuse</institution>
+            <year>2022-present</year>
+        </degree>
+    </education>
+    <workExperience>
+        <experience>
+            <title>Internship</title>
+            <company>Capgemini Technology Services Maroc SA</company>
+            <location>Casablanca</location>
+            <year>July 2021 - August 2021</year>
+            <details>Developed a bank project called ProxiBanque using Spring Boot and Angular</details>
+        </experience>
+        <experience>
+            <title>Project</title>
+            <company>Ecole Supérieure Polytechnique de DAKAR</company>
+            <location>DAKAR</location>
+            <year>March 2022 - July 2022</year>
+            <details>Developed an RMTP server for real-time listening and recording of hydrophone sound for the ESP's Electrical Engineering department as part of fisheries management in Senegal.</details>
+        </experience>
+        <experience>
+            <title>Project</title>
+            <company>Ecole Doctorale de Mathématique et Informatique - UCAD</company>
+            <location>DAKAR</location>
+            <year>January 2022 - July 2022</year>
+            <details>Developed an application to digitize the admission procedure of the mentioned school under the supervision of Pr. Alassane BAH with a first version using Spring Boot and a second version using Laravel.</details>
+        </experience>
+    </workExperience>
+    <skills>
+        <skill>XHTML/HTML4/HTML5</skill>
+        <skill>CSS3 &amp; JAVASCRIPT &amp; Angular &amp; ExpressJs</skill>
+        <skill>PHP &amp; MYSQL &amp; PL/SQL</skill>
+        <skill>JAVA/JEE &amp; Spring Boot</skill>
+        <skill>C Language</skill>
+        <skill>Global Vision of UNIX Systems</skill>
+        <skill>Mastery of ssh, ftp services, etc.</skill>
+    </skills>
+    <languages>
+        <language>
+            <name>French</name>
+            <proficiency>Very good command</proficiency>
+        </language>
+        <language>
+            <name>English</name>
+            <proficiency>Read, Spoken, Written</proficiency>
+        </language>
+        <language>
+            <name>Arabic</name>
+            <proficiency>Native language</proficiency>
+        </language>
+    </languages>
+    <interests>
+        <interest>New technologies (Cybersecurity, Computer Science, Smartphones, etc.)</interest>
+        <interest>Football</interest>
+        <interest>Judo</interest>
+        <interest>Reading</interest>
+        <interest>Social Networks</interest>
+    </interests>
+    
+</resume>

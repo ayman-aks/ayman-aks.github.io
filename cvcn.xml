@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform_cv.xsl"?>
+<resume>
+    <language>zh</language>
+    <titles>
+        <section>个人信息</section>
+        <socialLinks>社交链接</socialLinks>
+        <education>教育背景</education>
+        <workExperience>工作经验</workExperience>
+        <skills>技能</skills>
+        <languages>语言</languages>
+        <interests>兴趣爱好</interests>
+    </titles>
+    <personalInfo>
+        <name>姓名: Ayman AKANSOUS</name>
+        <dob>出生日期: 18/06/2001</dob>
+        <nationality>国籍: 摩洛哥</nationality>
+        <contact>
+            <email>电子邮件: aymanakansous@outlook.com</email>
+            <address>地址: 法国，Gagny，3 Rue Albert Camus 93220</address>
+            <phone>电话: +33749693627</phone>
+            <maritalStatus>婚姻状况: 单身</maritalStatus>
+        </contact>
+        <socials>
+            <github>https://github.com/ayman-aks</github>
+            <facebook>https://www.facebook.com/ayman.akansous</facebook>
+            <linkedin>https://www.linkedin.com/in/Ayman%20AKANSOUS</linkedin>
+        </socials>
+    </personalInfo>
+    <education>
+        <degree>
+            <title>高中毕业证书</title>
+            <institution>摩洛哥卡萨布兰卡Madaris Anisse</institution>
+            <year>2019</year>
+            <details>选修: 物理和化学科学, 成绩: 非常好</details>
+        </degree>
+        <degree>
+            <title>计算机工程DUT</title>
+            <institution>达喀尔高等理工学院 (ESP), 达喀尔</institution>
+            <year>2019-2021</year>
+            <details>成绩: 好</details>
+        </degree>
+        <degree>
+            <title>设计工程师文凭 (DIC)</title>
+            <institution>达喀尔高等理工学院 (ESP), 达喀尔</institution>
+            <year>2021-2022</year>
+        </degree>
+        <degree>
+            <title>计算机科学工程学位</title>
+            <institution>加利利学院, Villetaneuse</institution>
+            <year>2022至今</year>
+        </degree>
+    </education>
+    <workExperience>
+        <experience>
+            <title>实习</title>
+            <company>摩洛哥凯捷技术服务有限公司</company>
+            <location>卡萨布兰卡</location>
+            <year>2021年7月 - 2021年8月</year>
+            <details>使用Spring Boot和Angular开发了一个名为ProxiBanque的银行项目</details>
+        </experience>
+        <experience>
+            <title>项目</title>
+            <company>达喀尔高等理工学院</company>
+            <location>达喀尔</location>
+            <year>2022年3月 - 2022年7月</year>
+            <details>为ESP的电气工程系开发了一个用于实时监听和录制水听器声音的RMTP服务器, 作为塞内加尔渔业管理的一部分。</details>
+        </experience>
+        <experience>
+            <title>项目</title>
+            <company>UCAD数学与信息学研究生院</company>
+            <location>达喀尔</location>
+            <year>2022年1月 - 2022年7月</year>
+            <details>在阿拉萨内·巴教授的指导下, 开发了一个数字化录取程序的应用程序, 第一版使用Spring Boot, 第二版使用Laravel。</details>
+        </experience>
+    </workExperience>
+    <skills>
+        <skill>XHTML/HTML4/HTML5</skill>
+        <skill>CSS3 &amp; JAVASCRIPT &amp; Angular &amp; ExpressJs</skill>
+        <skill>PHP &amp; MYSQL &amp; PL/SQL</skill>
+        <skill>JAVA/JEE &amp; Spring Boot</skill>
+        <skill>C语言</skill>
+        <skill>UNIX系统的全局视角</skill>
+        <skill>掌握ssh, ftp等服务</skill>
+    </skills>
+    <languages>
+        <language>
+            <name>法语</name>
+            <proficiency>非常精通</proficiency>
+        </language>
+        <language>
+            <name>英语</name>
+            <proficiency>阅读, 口语, 书写</proficiency>
+        </language>
+        <language>
+            <name>阿拉伯语</name>
+            <proficiency>母语</proficiency>
+        </language>
+    </languages>
+    <interests>
+        <interest>新技术（网络安全, 计算机科学, 智能手机等）</interest>
+        <interest>足球</interest>
+        <interest>柔道</interest>
+        <interest>阅读</interest>
+        <interest>社交网络</interest>
+    </interests>
+    
+</resume>
